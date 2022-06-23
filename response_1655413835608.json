@@ -1,0 +1,5 @@
+{
+  "errorCode": 100,
+  "errorMessage": "Authentication failed",
+  "status": "REJECTED"
+}
